@@ -1,0 +1,9 @@
+Flask==2.2.2
+Flask-ApiExceptions==1.1.2
+gunicorn==20.1.0
+joblib==1.2.0
+pynini==2.1.5
+python-dateutil==2.8.2
+regex==2022.9.13
+torch==1.12.1
+tqdm==4.64.1
